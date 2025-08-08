@@ -1,4 +1,4 @@
-# 🧂 CHIP LIFE
+#🥔🍟 CHIP LIFE
 
 **CHIP LIFE** est un jeu d'aventure narratif en **point-and-click**, dans lequel le joueur incarne **Maxime**, un quarantenaire fatigué, dont l’unique objectif est de retrouver son **paquet de chips**, soigneusement caché par sa mère.  
 Ce court jeu, centré sur **l’exploration** et la **résolution d’énigmes**, propose une expérience légère, humoristique, dans un cadre domestique interactif.
